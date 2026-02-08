@@ -1,0 +1,10 @@
+Benefits:
+* Satisfaction of keeping a clean community, while giving participants the freedom to express themselves and share ideas/make friends.
+
+Requirements:
+* Be an Alchemy Affiliate.
+* Compare the behavior of server users against established rules, and steer conversations in a positive direction. Remove offending material, and take disciplinary action when needed.
+* Must exemplify the rules they are enforcing.
+
+Additional Notes:
+* This is a passive role. It is awarded to give someone the ability to respond to situations spontaneously.
