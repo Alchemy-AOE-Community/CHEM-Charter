@@ -11,27 +11,21 @@
 
 ## Article
 
-1. **Role Description**
-Alchemy Alliance {Cartographers}s are more involved in the community map-making scene.
+1. **Role Description** – Alchemy Alliance {Cartographers}s are more involved in the community map-making scene.
 
-2. **Responsibilities**
-None.
+2. **Responsibilities** – None.
 
-3. **Time Commitment**
-None.
+3. **Time Commitment** – None.
 
-4. **Benefits**
-{Cartographer}s gain access to Alchemy map-making tools.
+4. **Benefits** – {Cartographer}s gain access to Alchemy map-making tools.
 
-5. **Qualifications**
-Applicants must:
-* Be an Alchemy Affiliate per CH-06.
-* Have a free [GitHub Account](https://github.com).
-* Have successfully created a random map for an Alchemy Alliance competition.
+5. **Qualifications** – Applicants must:
+        * Be an Alchemy Affiliate per CH-06.
+        * Have a free [GitHub Account](https://github.com).
+        * Have successfully created a random map for an Alchemy Alliance competition.
 
-6. **Desired Qualities**
-Advantage to also:
-* Frequently helped to create maps for Alchemy Alliance competitions.
+6. **Desired Qualities** – Advantage to also:
+        * Frequently helped to create maps for Alchemy Alliance competitions.
 
 7. **On/Off Boarding**
 Per CH‑06‑Affiliate.

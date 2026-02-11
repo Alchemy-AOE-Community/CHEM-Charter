@@ -4,6 +4,7 @@
 3. [Communication](#2-communication)
 4. [Philosophy](#3-philosophy)
 5. [On/Off Boarding](#5-On/Off-Boarding)
+6. [Affiliation Types](#6-affiliation-types)
 
 ---
 
@@ -55,4 +56,23 @@
 
 5. **On/Off Boarding** –
     * **Process:** Any community member who wishes to become an {Affilate} need only message the {President}, who will respond within two weeks. Any {Affiliate} who wishes to leave may notify the {President}, who will adjust the proper roles within the same timeframe.
-    * **Retain Secrets:**  Non-disclosure agreements apply to former {Affiliate}s. 
+    * **Retain Secrets:**  Non-disclosure agreements apply to former {Affiliate}s.
+
+6. **Affiliation Types** – Summary of existing Alchemy AOE Alliance roles:
+
+    | Spec. No | Role in Forum | Reference Description |
+    | :---: | :---: | :--- |
+    | CH-07 | {Counsel}         | Advice on Matters Pertaining to Law                        |
+    | CH-08 | {Moderator}       | Enforcement of Forum Rules                                 |
+    | CH-09 | {Broadcaster}     | Creation of Video Content on External Platforms            |
+    | CH-10 | {Cartographer}    | Creation of Custom Random Map Scripts                      |
+    | CH-11 | {Map-Consultant}  | Feedback for Custom Map Creations                          |
+    | CH-12 | {Map-Judge}       | Final Screeing of New Custom Maps                          |
+    | CH-13 | {Scholar}         | General Staff & Approvals                                  |
+    | CH-14 | {Map-Organizer}   | Leadership in Sourcing Thematic Random Map Collections     |
+    | CH-15 | {Tournament-Host} | Organization of Competitive Events                         |
+    | CH-16 | {Web Developer}   | Website Development, Scripts & Utilities                   |
+    | CH-17 | {Web Publisher}   | Website Development, Content Population                    |
+    <p align="center"><em><u>Table 1: Forms of Alchemy Alliance Affiliation</u></em></p>
+
+    The benefits and responsibilities for each role in Table 1 are defined in their corresponding specifications. Roles typically grant additional forum visibility and permissions.
