@@ -2,7 +2,7 @@ Benefits:
 * Satisfaction of keeping a clean community, while giving participants the freedom to express themselves and share ideas/make friends.
 
 Requirements:
-* Be an Alchemy Affiliate.
+* Be an Alchemy Affiliate per CH-06.
 * Compare the behavior of server users against established rules, and steer conversations in a positive direction. Remove offending material, and take disciplinary action when needed.
 * Must exemplify the rules they are enforcing.
 

@@ -9,6 +9,8 @@
 
 ---
 
+## Article
+
 **1. OVERVIEW** – This document, and all those supporting it (bearing the “CH” prefix), are a social contract outlining the benefits and responsibilities of Alchemy AOE Alliance association, and constitute the Alchemy AOE Charter.
 
 **2. BACKGROUND** – The Alchemy AOE Alliance is a continuation of the Alchemy AOE Guild, a defunct competitive organization that specialized in advanced AOE2 custom random maps. Many of the philosophies and definitions from the Alchemy AOE Guild Charter are recycled and reworked with modularization, allowing individuals to contribute in specific ways without making larger commitments.  

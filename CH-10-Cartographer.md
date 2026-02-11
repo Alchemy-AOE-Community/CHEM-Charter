@@ -1,37 +1,37 @@
 ### Table of Contents
-1. [ROLE DESCRIPTION](#1-role-description)
-2. [RESPONSIBILITIES](#2-responsibilities)
-3. [TIME COMMITMENT](#3-time-commitment)
-4. [BENEFITS](#4-benefits)
-5. [QUALIFICATIONS](#5-qualifications)
-6. [DESIRED QUALITIES](#6-desired-qualities)
-7. [ON/OFF BOARDING](#7-onoff-boarding)
+1. [Role Description](#1-role-description)
+2. [Responsibilities](#2-responsibilities)
+3. [Time Commitment](#3-time-commitment)
+4. [Benefits](#4-benefits)
+5. [Qualifications](#5-qualifications)
+6. [Desired Qualities](#6-desired-qualities)
+7. [On/Off Boarding](#7-onoff-boarding)
 
 ---
 
-## **Article**
+## Article
 
-### 1. **ROLE DESCRIPTION**
+1. **Role Description**
 Alchemy Alliance {Cartographers}s are more involved in the community map-making scene.
 
-### 2. **RESPONSIBILITIES**
+2. **Responsibilities**
 None.
 
-### 3. **TIME COMMITMENT**
+3. **Time Commitment**
 None.
 
-### 4. **BENEFITS**
+4. **Benefits**
 {Cartographer}s gain access to Alchemy map-making tools.
 
-### 5. **QUALIFICATIONS**
+5. **Qualifications**
 Applicants must:
-* Meet the requirements of CH-06-Affiliate.
-* Have created a free [GitHub Account](https://github.com).
+* Be an Alchemy Affiliate per CH-06.
+* Have a free [GitHub Account](https://github.com).
 * Have successfully created a random map for an Alchemy Alliance competition.
 
-### 6. **DESIRED QUALITIES**
+6. **Desired Qualities**
 Advantage to also:
-* Frequently help create maps for Alchemy Alliance competitions.
+* Frequently helped to create maps for Alchemy Alliance competitions.
 
-### 7. **ON/OFF BOARDING**
+7. **On/Off Boarding**
 Per CH‑06‑Affiliate.
