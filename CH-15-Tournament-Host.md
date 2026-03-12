@@ -16,7 +16,7 @@
 2. **Responsibilities** – Alchemy Alliance {Tournament Host}s design competitions to keep the community engaged, which includes:
     - Managing the budget for a competition hosted by the Alchemy Alliance, particularly allocations to players and {Cartographer}s.
     - Preparing or selecting handbooks and general specifications stipulating tournament rules and methods with potential to update pending feedback.
-    - Reviewing proposals from {Map Organizer}s, and awarding map-pack contracts to the organizer with the configuration/theming that best meets the needs of the tournament (without micromanaging, haggling, or bargaining over creative choices).
+    - Reviewing proposals from {[Map Organizer](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-14-Map-Organizer.md)}s, and awarding map-pack contracts to the organizer with the configuration/theming that best meets the needs of the tournament (without micromanaging, haggling, or bargaining over creative choices).
     - Deciding how to seed players and apply administrative penalties when required.
     - Corresponding with players by answering questions, resolving disputes, and sending reminders to play sets by deadlines.
     - Publishing tournament materials to the website.
@@ -26,7 +26,7 @@
 4. **Benefits** – Only Alchemy-Alliance tournament hosts may bid on Alchemy Alliance funding. Typically these events have unique features, such as elo-calculation, bracketing, map pools, drafting methods, etc. that cannot be found elsewhere and thus provide coveted experience.
 
 5. **Qualifications** – Applicants must:
-    - Be an Alchemy Affiliate per CH-06.
+    - Be an Alchemy Affiliate per [CH-06](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-06-Affiliate.md).
     - Have a free [GitHub Account](https://github.com).
     - Be tied to a specific event, active or in planning, and not be a participant in such event.
     - Previous tournament organization experience (either as host or helper)
@@ -34,6 +34,6 @@
 6. **Desired Qualities** – Advantage to also:
     - Have experience with Alchemy Alliance processes.
 
-7. **On/Off Boarding**
-Per CH‑06‑Affiliate.
+7. **On/Off Boarding** – per [CH-06](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-06-Affiliate.md).
+
 
