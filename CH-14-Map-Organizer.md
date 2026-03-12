@@ -31,8 +31,8 @@
 
      <li><strong>To Be Awarded Contract</strong> – {Map Organizer}s engage in the following to assure that their custom random map collections are featured in an Alchemy Alliance competition:</li>
        <ol type="1">
-         <li>Present map specifications and creation team to {[Tournament Host](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-15-Tournament-Host.md)}s.</li>
-         <li>Persuade {[Tournament Host](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-15-Tournament-Host.md)}s through “water‑tight” definitions, reasonable timetables, reliable creators/evaluators, and creative vision.</li>
+         <li>Present map specifications and creation team to Tournament Hosts.</li>
+         <li>Persuade Tournament Hosts through “water‑tight” definitions, reasonable timetables, reliable creators/evaluators, and creative vision.</li>
        </ol>
 
      <li><strong>After Contract Award</strong> – If a contract is awarded within the proposed timeline, then the {Map Organizer} takes on the following additional responsibilities:</li>
@@ -41,7 +41,7 @@
          <li>Appoint a team and/or personally review random custom maps against their applicable specifications, identifying and helping to resolve any non‑conformities.</li>
          <li>Independently engage in correspondence with Alchemy AOE Community resources to achieve any of the above points.</li>
        </ol>
-       Depending on level of experience, the above tasks may receive varying levels of support/guidance from the {[Tournament Host](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-15-Tournament-Host.md)}s. If a contract is awarded but the {Map Organizer} fails to deliver, then they may be removed.
+       Depending on level of experience, the above tasks may receive varying levels of support/guidance from the {Tournament Host}. If a contract is awarded but the {Map Organizer} fails to deliver, then they may be removed.
    </ol>
 
 3. **Time Commitment** – Estimated time required in the following relevant activities:
@@ -70,7 +70,7 @@
 5. **Qualifications** – There is no limit to the number of persons within the Alchemy Alliance forum that may hold the {Map Organizer} role:
 
    <ol type="A">
-     <li>Be an Alchemy Affiliate per [CH-06](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-06-Affiliate.md).</li>
+     <li>Be an Alchemy Affiliate per CH-06.</li>
      <li>Have a free [GitHub Account](https://github.com).</li>
      <li>Champion the belief that proper planning and definition of requirements/expectations among community leaders can mitigate or entirely prevent the kinds of problems experienced by large, diverse, and complex online communities.</li>
      <li>Are a self‑starter with initiative and the proactivity to anticipate technical challenges; eager to learn about custom random map creation and tournament organization; unafraid to reach out to other Alchemy AOE volunteers.</li>
@@ -90,4 +90,4 @@
      <li>Time zone close to East US.</li>
    </ol>
 
-7. **On/Off Boarding** – per [CH-06](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-06-Affiliate.md).
+7. **On/Off Boarding** – Per CH‑06‑Affiliate.

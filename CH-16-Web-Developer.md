@@ -20,12 +20,13 @@
 4. **Benefits** – The Alchemy Alliance is run by volunteers. There is no monetary compensation currently available for this role. Instead it is an opportunity to showcase technical skill with websites, while supporting a "good cause".
 
 5. **Qualifications** – Applicants must:
-   * Be an Alchemy Affiliate per [CH-06](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-06-Affiliate.md).
+   * Be an Alchemy Affiliate per CH-06.
    * Have a free [GitHub Account](https://github.com).
    * Have experience in website development.
 
 6. **Desired Qualities** – Advantage to also:
         * Have experience with populating content on the website.
 
-7. **On/Off Boarding** – per [CH-06](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-06-Affiliate.md).
+7. **On/Off Boarding**
+Per CH‑06‑Affiliate.
 

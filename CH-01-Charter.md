@@ -15,12 +15,12 @@
 
 **2. Background** – The Alchemy AOE Alliance is a continuation of the Alchemy AOE Guild, a defunct competitive organization that specialized in advanced AOE2 custom random maps. Many of the philosophies and definitions from the Alchemy AOE Guild Charter are recycled and reworked with modularization, allowing individuals to contribute in specific ways without making larger commitments.  
     
-**3. Mission** – per [CH-02](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-02-Mission.md)
+**3. Mission** – per CH-02
     
-**4. Leadership** – per [CH-03](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-03-Leadership.md)
+**4. Leadership** – per CH-03
     
-**5. Forum Rules & Moderation** – per [CH-04](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-04-Forum_Rules_&_Moderation.md)
+**5. Forum Rules & Moderation** – per CH-04
     
-**6. Conflict Resolution** – per [CH-05](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-05-Conflict_Resolution.md)
+**6. Conflict Resolution** – per CH-05
     
-**7. Affiliation** – per [CH-06](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-06-Affiliate.md)
+**7. Affiliation** – per CH-06
