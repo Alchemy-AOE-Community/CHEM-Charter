@@ -42,5 +42,5 @@
       </ol>
       </li>
       <li><strong>INDEPENDENT EVALUATION</strong> – Except in cases of NSFW, {Moderator}s consider only the history a user has with the Alchemy AOE Community.</li>
-      <li><strong>APPEALS</strong> – Moderation decisions may only be appealed through the process of CH-008.</li>
+      <li><strong>APPEALS</strong> – Moderation decisions may only be appealed through the process of CH-05.</li>
     </ol>

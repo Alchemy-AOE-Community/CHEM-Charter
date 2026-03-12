@@ -34,8 +34,8 @@
       <li><strong>Honesty</strong> – {Affiliate}s shall <strong>NOT</strong>:
       <ol>
       <li>Plagiarize or copy others' content without proper credit and permission.</li>
-      <li>Misrepresent their creations or content as original when derived from others' work.</li>
-      <li>Distribute altered versions of official game content as their own.</li>
+      <li>Mislead seeding efforts of tournaments, to be matched against unworthy opponents.</li>
+      <li>Make commitments within the scope of responsibilities that cannot be honored.</li>
       </ol>
       </li>
       <li><strong>Equality</strong> – {Affiliate}s shall <strong>NOT</strong>:
@@ -71,8 +71,7 @@
     | CH-13 | {Scholar}         | General Staff & Approvals                                  |
     | CH-14 | {Map-Organizer}   | Leadership in Sourcing Thematic Random Map Collections     |
     | CH-15 | {Tournament-Host} | Organization of Competitive Events                         |
-    | CH-16 | {Web Developer}   | Website Development, Scripts & Utilities                   |
-    | CH-17 | {Web Publisher}   | Website Development, Content Population                    |
+    | CH-16 | {Web-Developer}   | Website Development, Scripts & Utilities                   |
     <p align="center"><em><u>Table 1: Forms of Alchemy Alliance Affiliation</u></em></p>
 
     The benefits and responsibilities for each role in Table 1 are defined in their corresponding specifications. Roles typically grant additional forum visibility and permissions.

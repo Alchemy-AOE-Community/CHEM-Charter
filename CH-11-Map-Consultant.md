@@ -13,10 +13,10 @@
 
 1. **Role Description** – All creators have blindspots, and appreciate other perspectives before putting to market. The {Map Consultant} provides feedback to help {Cartographer}s produce strategically diverse AOE2 map scripts for use in an Alchemy Alliance competition.
 
-2. **Responsibilities** – {Map Consultants}s are important to the Alchemy Alliance quality system. They use established procedures guide the development of new, strategically diverse custom maps. Identifying risks early maximizes chances of featuring custom work in an Age of Empires II competition hosted by the Alchemy Alliance.
+2. **Responsibilities** – {Map Consultants}s are important to the Alchemy Alliance quality system. They use established procedures to help guide the development of new, strategically diverse custom maps. Identifying risks early maximizes chances of featuring custom work in an Age of Empires II competition hosted by the Alchemy Alliance.
     - Review random maps produced by various scripters and score them according to community standards for "competitivity".
     - May provide feedback for how maps can be revised to improve scoring.
-    - Provides input on how "competitivity" scoring process may be improved.      
+    - Provides input on how "competitivity" scoring process may be improved.
 
     This role is passive; awarded so that {Cartographer}s and {Map-Organizer}s know who to ask when seeking feedback on maps. {Map Consultant}s are not designers -- they simply check that a map offers sufficient strategic variety to be fun to play and entertaining to watch, while offering potential ideas on how to achieve, if needed.
 
