@@ -18,20 +18,20 @@
     - May provide feedback for how maps can be revised to improve scoring.
     - Provides input on how "competitivity" scoring process may be improved.
 
-    This role is passive; awarded so that {Cartographer}s and {Map-Organizer}s know who to ask when seeking feedback on maps. {Map Consultant}s are not designers -- they simply check that a map offers sufficient strategic variety to be fun to play and entertaining to watch, while offering potential ideas on how to achieve, if needed.
+    This role is passive; awarded so that {[Cartographer](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-10-Cartographer.md)}s and {[Map-Organizer](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-14-Map-Organizer.md)}s know who to ask when seeking feedback on maps. {Map Consultant}s are not designers -- they simply check that a map offers sufficient strategic variety to be fun to play and entertaining to watch, while offering potential ideas on how to achieve, if needed.
 
 3. **Time Commitment** – Between 1 and 2 hrs per week, for 4 weeks out of the year.
 
 4. **Benefits** – The Alchemy Alliance is led by servant leaders and volunteers. There is no monetary compensation available for this role, but some reasons to help are listed below:
    - Large influence over the maps produced by the Alchemy AOE Community relative to time/work invested.
-   - Satisfaction of helping a {Cartographer} produce a competitive and "well-received" map for Alchemy Alliance events.
+   - Satisfaction of helping a {[Cartographer](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-10-Cartographer.md)} produce a competitive and "well-received" map for Alchemy Alliance events.
 
 5. **Qualifications** – There is no limit to the number of persons within the Alchemy Alliance forum that may hold the {Map Consultant} role:
-    - Be an Alchemy Affiliate per CH-06.
+    - Be an Alchemy Affiliate per [CH-06](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-06-Affiliate.md).
     - Must understand Alchemy AOE "competitivity" scoring system.
     - AOE2DE 1v1 Ladder Ranked Elo 1300+.
 
 6. **Desired Qualities** – It would be an advantage to any applicant of this role if they ALSO had:
     - AOE2DE 1v1 Ladder Ranked Elo 1500+.
 
-7. **On/Off Boarding** – Per CH‑06‑Affiliate.
+7. **On/Off Boarding** – per [CH-06](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-06-Affiliate.md).

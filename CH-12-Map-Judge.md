@@ -18,7 +18,7 @@
     - May give feedback for minor map changes that would improve scoring within limited timeframe.
     - Provide input on how "competitivity" scoring process may be improved for future events.
 
-    This role is honorary; awarded so that {Cartographer}s can instead preserve anonymity by prioritizing {Map Consultant}s during development phase. Map Judges are not designers -- they simply check that a map offers sufficient strategic variety to be fun to play and entertaining to watch. If it would fail and the competition still needs maps, they may provide a few simple options to edge it "across the finish line".
+    This role is honorary; awarded so that {[Cartographer](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-10-Cartographer.md)}s can instead preserve anonymity by prioritizing {[Map-Consultant](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-11-Map-Consultant.md)}s during development phase. Map Judges are not designers -- they simply check that a map offers sufficient strategic variety to be fun to play and entertaining to watch. If it would fail and the competition still needs maps, they may provide a few simple options to edge it "across the finish line".
 
 3. **Time Commitment** – Between 1 and 2 hrs per week, for 4 weeks out of the year.
 
@@ -27,11 +27,11 @@
    - The skill demographic targeted for this role tends to make more money if they win in an Alchemy Alliance competition. Ensuring that maps are competitive increases likelihood of positive experience.
 
 5. **Qualifications** – There is no limit to the number of persons within the Alchemy Alliance forum that may hold the {Map Judge} role:
-    - Be an Alchemy Affiliate per CH-06.
+    - Be an Alchemy Affiliate per [CH-06](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-06-Affiliate.md).
     - Must understand Alchemy AOE "competitivity" scoring system, and execute humbly.
     - AOE2DE 1v1 Ladder Ranked Elo 1800+.
 
 6. **Desired Qualities** – It would be an advantage to any applicant of this role if they ALSO had:
     - AOE2DE 1v1 Ladder Ranked Elo 2000+.
 
-7. **On/Off Boarding** – Per CH‑06‑Affiliate.
+7. **On/Off Boarding** – per [CH-06](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-06-Affiliate.md).

@@ -25,7 +25,7 @@
 
 4. **Charter Revision** – Notes accumulated during conflict resolution may substantiate future changes to the charter if clearer wording could have prevented the disagreement.
 
-5. **Burden-of-Proof** – Decisions made by {Moderator}s or the {President} stand unless overturned by the processes described in this document.
+5. **Burden-of-Proof** – Decisions made by {[Moderator](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-08-Moderator.md)}s or the {[President](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-03-Leadership.md)} stand unless overturned by the processes described in this document.
 
 6. **Reasonable Accommodation** – Alchemy considers “reasonable accommodation” to satisfy all of the following conditions:
     <ol type="A">
@@ -48,14 +48,14 @@
       <li>Accommodation was made, but a party remains unsatisfied.</li>
       </ol>
       </li>
-      <li><strong>{Moderator} Involvement:</strong> A {Moderator} may be reached with proof of attempted reconciliation. If a compromise is not reached, the dispute is promoted to step C. A lone {Moderator} cannot dictate corrective action.</li>
-      <li><strong>Moderation Team Involvement:</strong> All {Moderator}s and the {President} convene for a verbal conference (min. 30 minutes) within three weeks.
+      <li><strong>{[Moderator](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-08-Moderator.md)} Involvement:</strong> A {[Moderator](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-08-Moderator.md)} may be reached with proof of attempted reconciliation. If a compromise is not reached, the dispute is promoted to step C. A lone {[Moderator](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-08-Moderator.md)} cannot dictate corrective action.</li>
+      <li><strong>Moderation Team Involvement:</strong> All {[Moderator](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-08-Moderator.md)}s and the {[President](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-03-Leadership.md)} convene for a verbal conference (min. 30 minutes) within three weeks.
       <ol type="a">
       <li><strong>Abstention:</strong> Voters must abstain if a financial conflict of interest exists or the grievance is against them.</li>
       </ol>
       The losing party must abide by the result unless an appeal is allowed per the RESOLUTION THRESHOLD.
       </li>
-      <li><strong>General Affiliate Involvement:</strong> If an appeal is allowed, it is elevated to all {Affiliate}s via redacted notes. Voting ends when:
+      <li><strong>General {[Affiliate](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-06-Affiliate.md)} Involvement:</strong> If an appeal is allowed, it is elevated to all {[Affiliate](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-06-Affiliate.md)}s via redacted notes. Voting ends when:
       <ol>
       <li>The threshold is guaranteed based on total members.</li>
       <li>The threshold is impossible to reach.</li>

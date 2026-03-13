@@ -28,11 +28,11 @@
     <ol type="A">
       <li><strong>Tiers of Intervention</strong> – The following types of action could be taken:
       <ol type="1">
-      <li><strong>Message Cleanup:</strong> The {Moderator} performs basic server cleanup. Examples could include:
+      <li><strong>Message Cleanup:</strong> The {[CH-08](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-08-Moderator.md)} performs basic server cleanup. Examples could include:
       <ol type="a">
       <li>Duplicate messages sent in tandem.</li>
       <li>Indiscernible messages without context (E. G. “covfefe”).</li>
-      <li>Flagging Messages sent for the sole purpose of alerting a {Moderator} to a potential rule violation.</li>
+      <li>Flagging Messages sent for the sole purpose of alerting a {[CH-08](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-08-Moderator.md) } to a potential rule violation.</li>
       <li>Messages which are left over after a public discussion on moderation.</li>
       </ol>
       </li>
@@ -41,6 +41,6 @@
       <li><strong>User Ban:</strong> Removal from the server for extreme or repeated violations.</li>
       </ol>
       </li>
-      <li><strong>INDEPENDENT EVALUATION</strong> – Except in cases of NSFW, {Moderator}s consider only the history a user has with the Alchemy AOE Community.</li>
-      <li><strong>APPEALS</strong> – Moderation decisions may only be appealed through the process of CH-05.</li>
+      <li><strong>INDEPENDENT EVALUATION</strong> – Except in cases of NSFW, {[CH-08](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-08-Moderator.md)}s consider only the history a user has with the Alchemy AOE Community.</li>
+      <li><strong>APPEALS</strong> – Moderation decisions may only be appealed through the process of [CH-05](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-05-Conflict_Resolution.md) .</li>
     </ol>

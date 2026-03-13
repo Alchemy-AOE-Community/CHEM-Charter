@@ -62,16 +62,16 @@
 
     | Spec. No | Role in Forum | Reference Description |
     | :---: | :---: | :--- |
-    | CH-07 | {Counsel}         | Advice on Matters Pertaining to Law                        |
-    | CH-08 | {Moderator}       | Enforcement of Forum Rules                                 |
-    | CH-09 | {Broadcaster}     | Creation of Video Content on External Platforms            |
-    | CH-10 | {Cartographer}    | Creation of Custom Random Map Scripts                      |
-    | CH-11 | {Map-Consultant}  | Feedback for Custom Map Creations                          |
-    | CH-12 | {Map-Judge}       | Final Screeing of New Custom Maps                          |
-    | CH-13 | {Scholar}         | General Staff & Approvals                                  |
-    | CH-14 | {Map-Organizer}   | Leadership in Sourcing Thematic Random Map Collections     |
-    | CH-15 | {Tournament-Host} | Organization of Competitive Events                         |
-    | CH-16 | {Web-Developer}   | Website Development, Scripts & Utilities                   |
+    | [CH-07](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-07-Counsel.md)         | {Counsel}         | Advice on Matters Pertaining to Law                        |
+    | [CH-08](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-08-Moderator.md)       | {Moderator}       | Enforcement of Forum Rules                                 |
+    | [CH-09](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-09-Broadcaster.md)     | {Broadcaster}     | Creation of Video Content on External Platforms            |
+    | [CH-10](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-10-Cartographer.md)    | {Cartographer}    | Creation of Custom Random Map Scripts                      |
+    | [CH-11](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-11-Map-Consultant.md)  | {Map-Consultant}  | Feedback for Custom Map Creations                          |
+    | [CH-12](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-12-Map-Judge.md)       | {Map-Judge}       | Final Screeing of New Custom Maps                          |
+    | [CH-13](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-13-Scholar.md)         | {Scholar}         | General Staff & Approvals                                  |
+    | [CH-14](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-14-Map-Organizer.md)   | {Map-Organizer}   | Leadership in Sourcing Thematic Random Map Collections     |
+    | [CH-15](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-15-Tournament-Host.md) | {Tournament-Host} | Organization of Competitive Events                         |
+    | [CH-16](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-16-Web-Developer.md)   | {Web-Developer}   | Website Development, Scripts & Utilities                   |
     <p align="center"><em><u>Table 1: Forms of Alchemy Alliance Affiliation</u></em></p>
 
     The benefits and responsibilities for each role in Table 1 are defined in their corresponding specifications. Roles typically grant additional forum visibility and permissions.

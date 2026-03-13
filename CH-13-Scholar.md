@@ -20,12 +20,11 @@
 4. **Benefits** – {Scholar}s are recognized for helping to develop more advanced tournament methods and quality of life improvements. Could include compensation models, tournament elo calculations, handicap assignments, etc.
 
 5. **Qualifications** – Applicants must:
-   * Be an Alchemy Affiliate per CH-06.
+   * Be an Alchemy Affiliate per [CH-06](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-06-Affiliate.md).
    * Have a free [GitHub Account](https://github.com).
    * Understand any specification they are asked to review, or be willing to learn (particularly MTHD-XX, which tend to use advanced mathematics).
 
 6. **Desired Qualities** – Advantage to also:
    * Frequently helped to create maps for Alchemy Alliance competitions.
 
-7. **On/Off Boarding**
-Per CH‑06‑Affiliate.
+7. **On/Off Boarding** – per [CH-06](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-06-Affiliate.md)

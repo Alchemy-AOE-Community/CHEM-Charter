@@ -20,12 +20,11 @@
 4. **Benefits** – {Cartographer}s gain access to Alchemy map-making tools.
 
 5. **Qualifications** – Applicants must:
-   * Be an Alchemy Affiliate per CH-06.
+   * Be an Alchemy Affiliate per [CH-06](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-06-Affiliate.md).
    * Have a free [GitHub Account](https://github.com).
    * Have successfully created a random map for an Alchemy Alliance competition.
 
 6. **Desired Qualities** – Advantage to also:
    * Frequently helped to create maps for Alchemy Alliance competitions.
 
-7. **On/Off Boarding**
-Per CH‑06‑Affiliate.
+7. **On/Off Boarding** – per [CH-06](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-06-Affiliate.md)

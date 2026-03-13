@@ -34,7 +34,7 @@
     | Recorded Game File | .aoe2record | Generated whenever a game of AOE2 is played | Microsoft | No |
     | Scenario File | .aoe2scenario | Created through AOE2's scenario editor | Microsoft | No |
     | Random Map Scripts | .rms | Written in external editors, inspected using the game | Map Author | Yes |
-    | Script Compilation Tools | .m, .ods, etc. | Written in external editors, inspected using the game | Map Author | Yes |
+    | Script Compilation Tools | .m, .ods, etc. | Written in external editors, inspected using the game | Map Author/Alchemy Alliance | Yes |
     | Specifications | .odt, .pdf, etc. | Written in external editors, no game access required | Alchemy Alliance | Yes |
     <p align="center"><em><u>Table 1: Recognized File Types and Relationship with the Alchemy Alliance</u></em></p>
 

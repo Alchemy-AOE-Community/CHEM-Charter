@@ -22,9 +22,9 @@
     * Satisfaction of keeping a friendly community out of trouble.
 
 5. **Qualifications** – 
-    * Be an Alchemy Affiliate per CH-06.
+    * Be an Alchemy Affiliate per [CH-06](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-06-Affiliate.md).
     * Have a free [GitHub Account](https://github.com).
 
 6. **Desired Qualities** – None.
 
-7. **On/Off Boarding** – Per CH‑06‑Affiliate.
+7. **On/Off Boarding** – per [CH-06](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-06-Affiliate.md).

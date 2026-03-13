@@ -29,7 +29,7 @@
 4. **Benefits** – The Alchemy Alliance is led by servant leaders and volunteers. There is no monetary compensation available for this role. Instead, the Alchemy AOE Community server will announce when the {Broadcaster} goes live or publishes any video. Alchemy Alliance events are open casting, with no need to link the Alchemy AOE Community forum when featuring content.
 
 5. **Qualifications** – Applicants must:
-    * Be an Alchemy Affiliate per CH-06.
+    * Be an Alchemy Affiliate per [CH-06](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-06-Affiliate.md).
     * Exemplify Alchemy Alliance values: to cheerfully volunteer service as a leader/presenter, with no thought of financial reward, “tipping”, or “pay to play”. Humble and unspoiled by exposure to para-social interaction.
     * Willingness to cover un-casted sets, instead of repeating sets that can be watched elsewhere (unless all sets have already been casted).
     * Possess good quality equipment & setup for content creation without scratchy voice, grainy, or laggy video, etc.
@@ -39,4 +39,4 @@
     * Willing to create live broadcasts on Youtube.
     * Ranked of 1300+ on DE 1v1 ladder.
 
-7. **On/Off Boarding** – Per CH‑06‑Affiliate.
+7. **On/Off Boarding** – per [CH-06](https://github.com/Alchemy-AOE-Community/CHEM-Charter/blob/main/CH-06-Affiliate.md).
